@@ -1,0 +1,6 @@
+comandos.txt
+1. git init - iniciar proyecto nuevo 
+.gotkeep - guardar carpetas en github
+
+2. agregar cambios en el área de preparación:
+git add .
